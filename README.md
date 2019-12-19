@@ -7,7 +7,7 @@ Problem :- Suppose a company "XYZ" wants to inveset money in the start_up compan
    2. Choosing top 3 english speaking countries and refine start_ups on this basis because XYZ want to invest in only english speaking countries.
 
 
-Open this project in jupyter notebook and run each cell to see result.
+Open this project in jupyter notebook, select .ipynb files series by and see result.
 
 
 Enviroment to run this:-
